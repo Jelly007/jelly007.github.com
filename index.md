@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="dong.jpg">
+<img class="profile-picture" src="dong.JPG">
 
 I am currently a 5th year PhD student in Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is [Prof. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/).
 
