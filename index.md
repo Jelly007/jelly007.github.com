@@ -14,6 +14,7 @@ My research interests includes machine learning, deep learning, and their applic
 
 ## Competitions
 * No.3 among 1956 teams, Travel Time Estimation Competition (In [DataCastle 2017](http://www.pkbigdata.com/common/cmpt/%E4%BA%A4%E9%80%9A%E7%BA%BF%E8%B7%AF%E9%80%9A%E8%BE%BE%E6%97%B6%E9%97%B4%E9%A2%84%E6%B5%8B_%E6%8E%92%E8%A1%8C%E6%A6%9C.html))
+    (click the second item "排行榜" in the first drop-down list "复赛有效方案榜" to see the rank.)
 * No.2 among 1648 teams, [Di-tech Algorithm Competition](http://research.xiaojukeji.com/competition/main.action?competitionId=DiTech2016&&locale=en), 2016
 * The Most Potential Prize, Di-tech Algorithm Competition, 2016
 * Winning prize, National Information Security Competition, 2010
