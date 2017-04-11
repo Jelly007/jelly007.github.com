@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="dong.JPG">
+<img class="profile-picture" src="dong.jpg">
 
 I am currently a 5th year PhD student in Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is [Prof. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/).
 
@@ -14,7 +14,6 @@ My research interests includes machine learning, deep learning, and their applic
 
 ## Competitions
 * No.3 among 1956 teams, Travel Time Estimation Competition (In [DataCastle 2017](http://www.pkbigdata.com/common/cmpt/%E4%BA%A4%E9%80%9A%E7%BA%BF%E8%B7%AF%E9%80%9A%E8%BE%BE%E6%97%B6%E9%97%B4%E9%A2%84%E6%B5%8B_%E6%8E%92%E8%A1%8C%E6%A6%9C.html))
-    (click the second item "排行榜" in the first drop-down list "复赛有效方案榜" to see the rank.)
 * No.2 among 1648 teams, [Di-tech Algorithm Competition](http://research.xiaojukeji.com/competition/main.action?competitionId=DiTech2016&&locale=en), 2016
 * The Most Potential Prize, Di-tech Algorithm Competition, 2016
 * Winning prize, National Information Security Competition, 2010
@@ -29,9 +28,9 @@ My research interests includes machine learning, deep learning, and their applic
 	* IIIS, Tsinghua University, Comprehensive Paper Training (Lecturer: Jian Li, Fall 2014)
 
 ## Publications
-* When Will You Arrive? Estimating Travel Time Based on Recurrent Neural Networks, **Dong Wang**, Wei Cao, Jian Li (submitted to IJCAI 2017)
+* When Will You Arrive? Estimating Travel Time Based on Recurrent Neural Networks, **Dong Wang**, Wei Cao, Jian Li (submitted to IJCAI 2017) ([Slides](./talk_slides_deeptte.pdf))
 
-* [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf))
+* [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
 
 * [Automatic User Identification Method across Heterogeneous Mobility Data Souces]( http://ieeexplore.ieee.org/document/7498306/). Wei Cao, Zhengwei Wu, **Dong Wang**, Jian Li, Haishan Wu. In International Conference on Data Engineering (ICDE2016). ([PDF](./Automatic.pdf))([Slides](./oral.pdf))
 
