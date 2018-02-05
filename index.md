@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="dong.jpg">
 
-I am currently a 5th year PhD student in Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is [Prof. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/).
+I am currently a postdoctural researcher in Duke University, supervised by [Prof. Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
-Before that, I received the B. Sc degree from Department of Computer Science of China University of Mining Technology.
+Before that, I received my Ph.D degree from Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is [Prof. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/). I received the B. Sc degree from Department of Computer Science of China University of Mining Technology.
 
 My research interests includes machine learning, deep learning, and their application in spatio-temporal data.
 
@@ -28,7 +28,7 @@ My research interests includes machine learning, deep learning, and their applic
 	* IIIS, Tsinghua University, Comprehensive Paper Training (Lecturer: Jian Li, Fall 2014)
 
 ## Publications
-* When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks, **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)
+* When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks, **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)([PDF](./deepTTE.pdf))([Poster](./deeptte_poster.pdf))
 
 * [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
 
