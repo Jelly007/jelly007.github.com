@@ -53,17 +53,11 @@ My research interests includes machine learning, deep learning, and their applic
 * The first prize scholarship, China University of Mining and Technology, for three times, 2009 - 2012
 
 ## Contact
-**Address:**
-
-```
-    Room 4-609, FIT-Building, Tsinghua University
-    Beijing, China
-```
     
 **E-mail:**
 
 ```
-    wang-dong12 at mails.tsinghua.edu.cn
+    dong.wang363 at mail.duke.edu
     wangdong2090 at gmail.com
 ```
 
