@@ -28,7 +28,7 @@ My research interests includes machine learning, deep learning, and their applic
 	* IIIS, Tsinghua University, Comprehensive Paper Training (Lecturer: Jian Li, Fall 2014)
 
 ## Publications
-* When Will You Arrive? Estimating Travel Time Based on Recurrent Neural Networks, **Dong Wang**, Wei Cao, Jian Li (submitted to IJCAI 2017) ([Slides](./talk_slides_tte.pdf))
+* When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks, **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)
 
 * [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
 
