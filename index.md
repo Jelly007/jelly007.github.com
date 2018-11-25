@@ -57,7 +57,7 @@ My research interests includes machine learning, deep learning, and their applic
 **E-mail:**
 
 ```
-    dong.wang363 at mail.duke.edu
+    dong.wang363 at duke.edu
     wangdong2090 at gmail.com
 ```
 
