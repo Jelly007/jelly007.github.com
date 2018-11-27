@@ -28,6 +28,10 @@ My research interests includes machine learning, deep learning, and their applic
 	* IIIS, Tsinghua University, Comprehensive Paper Training (Lecturer: Jian Li, Fall 2014)
 
 ## Publications
+* BRITS: Bidirectional Recurrent Imputation for Time Series,Wei Cao, **Dong Wang**, Jian Li, Hao Zhou, Lei Li, Yitan Li (NIPS 2018)(Poster)
+
+* LMVP: Video Predictor with Leaked Motion Information, **Dong Wang**, Yitong Li, Wei Cao, Liqun Chen, Qi Wei, Lawrence Carrin (NIPS)(workshop)
+
 * When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks, **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)([PDF](./deepTTE.pdf))([Poster](./deeptte_poster.pdf))([Slides](./When_Will_You_Arrive_Estimating_Travel_Time_Based_on_Deep_Neural_Networks_Dong_Wang.pdf))
 
 * [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
