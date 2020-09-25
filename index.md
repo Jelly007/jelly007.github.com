@@ -44,9 +44,9 @@ My research interests includes machine learning, deep learning, and their applic
 
 * [DESTPREE: A Data-Driven Approach to Destination Prediction](http://dl.acm.org/citation.cfm?id=2971664), Mengwen Xu, **Dong Wang**, Jian Li. In ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016). ([PDF](./DESTPRE.pdf)) ([Slides](./ubicomp.pdf))
 
-* [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/pdf/1911.06156.pdf), Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, Shijing Si, Dinghan Shen, **Dong Wang**, Lawrence Carin
+* [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/pdf/1911.06156.pdf), Dhanasekar Sundararaman, ..., **Dong Wang**, Lawrence Carin (2019)
 
-* [Deep learning algorithm for diagnosis of Alzheimer’s disease using multimodal retinal imaging](http://scholar.google.com/scholar?cluster=13023750327109154416&hl=en&oi=scholarr), CE Wisely, **Dong Wang**, Ricardo Henao, Dilraj S Grewal, ..., Lawrence Carin, Sharon Fekrat
+* [Deep learning algorithm for diagnosis of Alzheimer’s disease using multimodal retinal imaging](http://scholar.google.com/scholar?cluster=13023750327109154416&hl=en&oi=scholarr), CE Wisely, **Dong Wang**, Ricardo Henao, Dilraj S Grewal, ..., Lawrence Carin, Sharon Fekrat (2019)
 
 ## Talks and Slides
 * [Learning Algorithms over Massive Spatio-Temporal Data](http://mp.weixin.qq.com/s/vQpDhqDPK6kaVTEC2E0t8A) (SHUFE 2017) ([slides](./talk_slides_wangdong.pdf))
