@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="dong-prog.jpg">
+<img class="profile-picture" src="dong-prof.jpeg">
 
 I am currently a postdoctural researcher in Duke University, supervised by [Prof. Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
 
