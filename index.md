@@ -36,9 +36,9 @@ My research interests includes machine learning, deep learning, and their applic
 
 * [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://zhangjunbo.org/pdf/2018_AAAI_DeepTTE.pdf), **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)([PDF](./deepTTE.pdf))([Poster](./deeptte_poster.pdf))([Slides](./When_Will_You_Arrive_Estimating_Travel_Time_Based_on_Deep_Neural_Networks_Dong_Wang.pdf))
 
-* [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
+* [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE 2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
 
-* [Automatic User Identification Method across Heterogeneous Mobility Data Souces]( http://ieeexplore.ieee.org/document/7498306/). Wei Cao, Zhengwei Wu, **Dong Wang**, Jian Li, Haishan Wu. In International Conference on Data Engineering (ICDE2016). ([PDF](./Automatic.pdf))([Slides](./oral.pdf))
+* [Automatic User Identification Method across Heterogeneous Mobility Data Souces]( http://ieeexplore.ieee.org/document/7498306/). Wei Cao, Zhengwei Wu, **Dong Wang**, Jian Li, Haishan Wu. In International Conference on Data Engineering (ICDE 2016). ([PDF](./Automatic.pdf))([Slides](./oral.pdf))
 
 * [ETCPS: An Effective and Scalable Traffic Condition Prediction System](https://link.springer.com/chapter/10.1007/978-3-319-32049-6_26), **Dong Wang**, Wei Cao, Mengwen Xu and Jian Li The 21st International Conference on Database Systems for Advanced Applications (DASFAA 2016) ([PDF](./ETCPS.pdf))([Slides](./ETCPS-slides.pdf))
 
