@@ -32,9 +32,9 @@ My research interests includes machine learning, deep learning, and their applic
 
 * [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf), Wei Cao, **Dong Wang**, Jian Li, Hao Zhou, Lei Li, Yitan Li (NIPS 2018)
 
-* LMVP: Video Predictor with Leaked Motion Information, **Dong Wang**, Yitong Li, Wei Cao, Liqun Chen, Qi Wei, Lawrence Carrin (NIPS)(workshop)
+* [LMVP: Video Predictor with Leaked Motion Information](https://arxiv.org/pdf/1906.10101.pdf), **Dong Wang**, Yitong Li, Wei Cao, Liqun Chen, Qi Wei, Lawrence Carrin (NIPS)(workshop)
 
-* When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks, **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)([PDF](./deepTTE.pdf))([Poster](./deeptte_poster.pdf))([Slides](./When_Will_You_Arrive_Estimating_Travel_Time_Based_on_Deep_Neural_Networks_Dong_Wang.pdf))
+* [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://zhangjunbo.org/pdf/2018_AAAI_DeepTTE.pdf), **Dong Wang**, Juanbo Zhang, Wei Cao, Yu Zheng, Jian Li (AAAI 2018)([PDF](./deepTTE.pdf))([Poster](./deeptte_poster.pdf))([Slides](./When_Will_You_Arrive_Estimating_Travel_Time_Based_on_Deep_Neural_Networks_Dong_Wang.pdf))
 
 * [DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks](http://iiis.tsinghua.edu.cn/~jianli/paper/ICDE17-deepsd.pdf), **Dong Wang**, Wei Cao, Jian Li, Jieping Ye. In International Conference on Data Engineering (ICDE2017). ([PDF](./DeepSD.pdf)) ([Slides](./talk_slides_deepsd.pdf))
 
