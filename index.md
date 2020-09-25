@@ -28,7 +28,9 @@ My research interests includes machine learning, deep learning, and their applic
 	* IIIS, Tsinghua University, Comprehensive Paper Training (Lecturer: Jian Li, Fall 2014)
 
 ## Publications
-* BRITS: Bidirectional Recurrent Imputation for Time Series,Wei Cao, **Dong Wang**, Jian Li, Hao Zhou, Lei Li, Yitan Li (NIPS 2018)(Poster)
+* [On Fenchel Mini-Max Learning](http://papers.nips.cc/paper/9230-on-fenchel-mini-max-learning.pdf), Chenyang Tao, ..., **Dong Wang**, ..., Lawrence Carin (ICML 2019)
+
+* [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf), Wei Cao, **Dong Wang**, Jian Li, Hao Zhou, Lei Li, Yitan Li (NIPS 2018)
 
 * LMVP: Video Predictor with Leaked Motion Information, **Dong Wang**, Yitong Li, Wei Cao, Liqun Chen, Qi Wei, Lawrence Carrin (NIPS)(workshop)
 
