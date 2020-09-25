@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="dong-prof.jpeg">
 
-I am currently a postdoctural researcher in Duke University, supervised by [Prof. Lawrence Carin](http://people.ee.duke.edu/~lcarin/).
+I am currently a postdoctural researcher in Duke University, supervised by [Prof. Lawrence Carin](http://people.ee.duke.edu/~lcarin/) (2018-present).
 
-Before that, I received my Ph.D degree from Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My advisor is [Prof. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/). I received the B. Sc degree from Department of Computer Science of China University of Mining Technology.
+Before that, I received my Ph.D degree from Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University (2012-2017). My advisor is [Prof. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/). I received the B. Sc degree from Department of Computer Science of China University of Mining Technology (2008-2012).
 
 My research interests includes machine learning, deep learning, and their application in spatio-temporal data.
 
