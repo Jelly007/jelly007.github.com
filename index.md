@@ -7,8 +7,9 @@ layout: default
 <img class="profile-picture" src="dong-prof.jpeg">
 
 I am currently a postdoctural researcher at Duke University, supervised by [Professor. Lawrence Carin](http://people.ee.duke.edu/~lcarin/) (2017-present).
-Before that, I received my Ph.D degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University (2012-2017). My advisor is [Professor. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/). I received the B. Sc degree from Department of Computer Science of China University of Mining Technology (2008-2012).
-My research interests includes machine learning, deep learning, and their application in spatio-temporal data.
+Before that, I received my Ph.D degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University (2012-2017). My advisor is [Professor. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/). I received the B. Sc degree from Department of Computer Science of China University of Mining Technology (2008-2012). 
+
+My research interests mainly focused on machine learning/deep learning models, and their applications, especially time series prediction/imputation; video prediction/generation; model interpretation; traffic and healthcare tasks. 
 
 ## Competitions
 * No.3 among 1956 teams, Travel Time Estimation Competition (In [DataCastle 2017](http://www.pkbigdata.com/common/cmpt/%E4%BA%A4%E9%80%9A%E7%BA%BF%E8%B7%AF%E9%80%9A%E8%BE%BE%E6%97%B6%E9%97%B4%E9%A2%84%E6%B5%8B_%E6%8E%92%E8%A1%8C%E6%A6%9C.html))
@@ -19,13 +20,23 @@ My research interests includes machine learning, deep learning, and their applic
 
 ## Experience
 * **Research Intern**
-	* Didi Chuxing, Bigdata Lab (2015.11-2016.4)
+	* Didi Chuxing, Bigdata Lab (2015.11-2016.04)
+	* Visiting scholar, Microsoft Research Asian (2017.06-2017.09).
 
 * **Teaching Assistant**
 	* IIIS, Tsinghua University, Mathematics for Computer Science (Lecturer: John Steinberg, Spring 2015)
 	* IIIS, Tsinghua University, Comprehensive Paper Training (Lecturer: Jian Li, Fall 2014)
 
+## Skills
+Python (>8 years), PyTorch (>5 years), TensorFlow (>3 years), Jave, C++
+
 ## Publications
+* [Proactive Pseudo-Intervention: Causally Informed Contrastive Learning For Interpretable Vision Models](https://arxiv.org/abs/2012.03369), **Dong Wang**, Yuewei Yang, Chenyang Tao, Fanjie Kong, Ricardo Henao, Lawrence Carin
+
+* [Convolutional neural network to identify symptomatic Alzheimer’s disease using multimodal retinal imaging](https://bjo.bmj.com/content/early/2020/11/25/bjophthalmol-2020-317659.abstract), C. Ellis Wisely1, **Dong Wang**, Ricardo Henao, Dilraj S. Grewal, Atalie C. Thompson, Cason B. Robbins, Stephen P. Yoon, Srinath Soundararajan, Bryce W. Polascik, James R. Burke, Andy Liu, Lawrence Carin, Sharon Fekrat. (British Journal of Ophthalmology 2020)
+
+* [Syntax-Infused Transformer and BERT models for Machine Translation and Natural Language Understanding](https://arxiv.org/abs/1911.06156), Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, Shijing Si, Dinghan Shen, **Dong Wang**, Lawrence Carin
+
 * [On Fenchel Mini-Max Learning](http://papers.nips.cc/paper/9230-on-fenchel-mini-max-learning.pdf), Chenyang Tao, ..., **Dong Wang**, ..., Lawrence Carin (ICML 2019)
 
 * [BRITS: Bidirectional Recurrent Imputation for Time Series](http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series.pdf), Wei Cao, **Dong Wang**, Jian Li, Hao Zhou, Lei Li, Yitan Li (NIPS 2018)
