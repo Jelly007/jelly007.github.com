@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photo_Dong.jpeg">
+<img class="profile-picture" src="dong-prof.jpeg">
 
 I am currently a postdoctural researcher at Duke University, supervised by [Professor. Lawrence Carin](http://people.ee.duke.edu/~lcarin/) (2017-present).
 Before that, I received my Ph.D degree from [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University (2012-2017). My advisor is [Professor. Jian Li](http://iiis.tsinghua.edu.cn/~jianli/). I received the B. Sc degree from Department of Computer Science of China University of Mining Technology (2008-2012). 
