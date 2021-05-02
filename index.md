@@ -31,7 +31,9 @@ My research interests mainly focused on machine learning/deep learning models, a
 Python (>8 years), PyTorch (>5 years), TensorFlow (>3 years), Jave, C++
 
 ## Publications
-* [Proactive Pseudo-Intervention: Causally Informed Contrastive Learning For Interpretable Vision Models](https://arxiv.org/abs/2012.03369), **Dong Wang**, Yuewei Yang, Chenyang Tao, Fanjie Kong, Ricardo Henao, Lawrence Carin
+* [Wasserstein Contrastive Representation Distillation](https://arxiv.org/abs/2012.08674), Liqun Chen, **Dong Wang**, Zhe Gan, Jingjing Liu, Ricardo Henao, Lawrence Carin, (CVPR 2021)
+
+* [Proactive Pseudo-Intervention: Causally Informed Contrastive Learning For Interpretable Vision Models](https://arxiv.org/abs/2012.03369), **Dong Wang**, Yuewei Yang, Chenyang Tao, Zhe Gan, Liqun Chen, Fanjie Kong, Ricardo Henao, Lawrence Carin.
 
 * [Convolutional neural network to identify symptomatic Alzheimer’s disease using multimodal retinal imaging](https://bjo.bmj.com/content/early/2020/11/25/bjophthalmol-2020-317659.abstract), C. Ellis Wisely1, **Dong Wang**, Ricardo Henao, Dilraj S. Grewal, Atalie C. Thompson, Cason B. Robbins, Stephen P. Yoon, Srinath Soundararajan, Bryce W. Polascik, James R. Burke, Andy Liu, Lawrence Carin, Sharon Fekrat. (British Journal of Ophthalmology 2020)
 
